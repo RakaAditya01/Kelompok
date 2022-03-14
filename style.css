@@ -1,0 +1,85 @@
+/* Title */
+.container1 {
+    margin-left: 10px;
+}
+
+.judul {
+    display: flex;
+    margin-top: -25px;
+}
+
+.judul h1 {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-weight: 800;
+    margin-right: 570px;
+}
+
+ul {
+    display: inline;
+    margin-left: 134px;
+}
+
+li {
+    display: inline;
+}
+
+.kotak1 {
+    background-repeat: no-repeat;
+    width: 50px;
+    height: 50px;
+    margin-top: 40px;
+    border-style: solid; 
+    border-color: black;
+}
+
+.kotak2 {
+    background-repeat: no-repeat;
+    width: 50px;
+    height: 50px;
+    margin-right: -0px;
+    margin-top: 40px;
+    border-style: solid;
+    border-color: black;
+}
+
+.profile-container {
+    margin-top: 20px;
+    margin-left: 10px;
+}
+/* Tutup */
+
+/* Profile */
+.card-img {
+    width: 352px;
+    height: 350px;
+}
+
+.card {
+    width: 350px;
+    height: 540px;
+    float: left;
+    margin-right: 50px;
+    border-style: ridge;
+}
+
+.card-title{
+    text-align: center;
+}
+
+.card-title-job{
+    text-align: center;
+    margin-top: 10px;
+}
+/* Tutup */
+
+/* icon */
+.icon {
+    margin-left: 50px;
+    width: 120px;
+    height: 90px;
+    display: flex;
+    gap: 15px;
+    margin-left: 120px;
+    margin-top: -17px;
+}
+/* tutup */
