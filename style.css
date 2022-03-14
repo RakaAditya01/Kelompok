@@ -41,14 +41,13 @@ li {
     border-style: solid;
     border-color: black;
 }
+/* Tutup */
 
+/* Profile */
 .profile-container {
     margin-top: 20px;
     margin-left: 10px;
 }
-/* Tutup */
-
-/* Profile */
 .card-img {
     width: 352px;
     height: 350px;
